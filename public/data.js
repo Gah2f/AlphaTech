@@ -72,7 +72,7 @@ const logos = [
   ];
 
 
-// features section data
+
 
 const features = [
     {
@@ -101,7 +101,7 @@ const features = [
     }
   ];
 
-// design section data
+
 const tabsData = [
     {
       id: 'tab1',
@@ -149,7 +149,6 @@ const tabsData = [
     }
   ];
 
-// customer section data
 
 const customerData = [
     {
@@ -188,7 +187,6 @@ const customerData = [
   ];
 
 
-//   about section data
 
 const aboutFeatures = [
     {
@@ -228,9 +226,6 @@ const aboutFeatures = [
         "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/67057031236cd506cd0ae632_writing-assistant.avif",
     },
   ];
-
-
-//   footer section data
 
 const footerLinks = {
     product: {

@@ -1,3 +1,11 @@
 @import "tailwindcss";
 
 @custom-variant hover (&:hover);
+
+@theme {
+    --color-primary: #080806
+}
+
+.primary-container {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8;
+}
