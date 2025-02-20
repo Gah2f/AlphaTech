@@ -43,7 +43,7 @@ function Footer() {
         { icon: <FaYoutube />, href: 'https://youtube.com' }
       ];
   return (
-    <footer className='bg-black text-white pt-20 pb-10'>
+    <footer className='bg-black/90 text-white pt-20 pb-10'>
         <div className='primary-container'>
             <div className='flex flex-col md:flex-row justify-between md:gap-25 gap-16 mb-16'>
                 <div className='md:w-1/3'>
